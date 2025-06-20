@@ -1,6 +1,6 @@
 # Santorini Desktop Game
 
-![Project Image](https://imgur.com/9kVnyUd.png)
+![Project Image](https://github.com/yuanyi1029/santorini/blob/f103a2f8ae9725d085e3bfe93d5e3dbc270384f6/santorini.png)
 #### Video Demo: (In Progress)
 
 ## 💬 Description
